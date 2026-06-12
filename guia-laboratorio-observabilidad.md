@@ -1,4 +1,4 @@
-# Grafana, Prometheus y Loki
+# Grafana Prometheus y Loki
 
 **Curso:** Infraestructura como Código
 **Duración estimada:** 90–120 minutos
